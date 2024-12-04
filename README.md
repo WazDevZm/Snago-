@@ -1,9 +1,9 @@
 # Snago-🐍
 Snake game using Python. This project is open source, feel free to contribute!
-- Developed by Wazingwa Mugala, CS sophmore@CBU
+- Developed by Wazingwa Mugala, CS sophomore@CBU
 
 # Requirements
-- 1. Python 3.x
+- Python 3.x
 
 # Project Running
 
